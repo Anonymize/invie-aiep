@@ -404,6 +404,12 @@ input:focus, textarea:focus {
   .guitarra img {
     width: 200px;
   }
+  
+  .portada img {
+    width: 200px;
+    height: 100px
+  }
+  
   .title-b {
     font-size: 30px;
   }
